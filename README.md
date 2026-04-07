@@ -1,7 +1,32 @@
-# global-app-usage-revenue-analysis
-Data analysis project exploring global mobile app usage and revenue trends using Excel and Power BI dashboards.
-This project analyzes global mobile application usage and revenue trends using data analytics techniques. 
 
-The goal is to identify user growth patterns, revenue trends, and category performance across multiple applications. 
+# Global App Usage & Revenue Analysis Dashboard
 
-An interactive Power BI dashboard was developed to visualize insights and support data-driven decision making.
+## Project Overview
+This project analyzes mobile application usage and revenue trends across multiple years using data analytics techniques and visualization tools.
+
+## Tools Used
+- Excel – Data Cleaning
+- SQL – Data Querying
+- Power BI – Data Visualization
+- Python (Pandas, NumPy) – Data Analysis
+
+## Dataset Description
+The dataset contains information about mobile applications including:
+
+- App Name
+- Year
+- Revenue
+- Number of Users
+- Category
+
+## Data Cleaning
+- Checked for missing values in revenue and user columns
+- Handled null values appropriately
+- Standardized data formats
+- Removed inconsistencies
+
+## Key Insights
+- Revenue growth trends across apps
+- User growth analysis
+- Category performance comparison
+- Identification of top-performing applications
